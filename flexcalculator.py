@@ -7,5 +7,3 @@ while inputedNumber != "done":
     list_array.append(inputedNumber)
     
 print(list_array[:-1])
-
-name = "OSama"
