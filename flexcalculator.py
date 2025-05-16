@@ -8,3 +8,4 @@ while inputedNumber != "done":
     
 print(list_array[:-1])
 
+name = "OSama"
